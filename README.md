@@ -10,5 +10,5 @@ Derive the optimal rule for updating epsilon.
 
 Incorporate some sort of prior?
 
-Continue tweaking *get_products_from_systembolaget.py*, e.g. one could be able to choose some price range.
+Continue tweaking **get_products_from_systembolaget.py**, e.g. one could be able to choose some price range.
 
