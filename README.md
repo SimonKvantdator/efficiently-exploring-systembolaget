@@ -1,3 +1,5 @@
+Systembolaget decided that, from 2020-11-01, only store info will be available and not product info. Which makes this project, regretably, bound to die.
+
 ### efficiently-exploring-systembolaget
 
 What is the most efficient strategy for maximizing pleasure when buying alcohol at Systembolaget? In this repo we plan to implement an epsilon-greedy algorithm for choosing how to explore the rather large state space that is Systembolaget's assortment. We use a [python wrapper](https://github.com/claha/pysystembolaget) for the Systembolaget API to fetch the products available at a given store in a given category and their descriptions. 
