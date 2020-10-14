@@ -1,4 +1,4 @@
-Systembolaget decided that, from 2020-11-01, only store info will be available and not product info. Which makes this project, regretably, bound to die.
+Systembolaget decided that, from 2020-11-01, only store info will be available in their API, no product info. Which makes this project, regretably, bound to die.
 
 ### efficiently-exploring-systembolaget
 
